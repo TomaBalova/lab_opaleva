@@ -6,6 +6,7 @@
     <title>{{ title }} - My Bottle Application</title>
     <link rel="stylesheet" type="text/css" href="/static/content/bootstrap.min.css" />
     <link rel="stylesheet" type="text/css" href="/static/content/site.css" />
+    <link rel="stylesheet" href="/static/content/but.css" />
     <script src="/static/scripts/modernizr-2.6.2.js"></script>
 </head>
 
@@ -23,7 +24,7 @@
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
                     <li><a href="/home">Home</a></li>
-                    <li><a href="/im_phot">I'm - photographer</a></li>
+                    <li><a href="/im_phot">I'm a photographer</a></li>
                     <li><a href="/contact">Contact</a></li>
                 </ul>
             </div>

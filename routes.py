@@ -27,9 +27,9 @@ def contact():
 @route('/im_phot')
 @view('im_phot')
 def about():
-    """Renders the about page."""
+    
     return dict(
-        title='About',
+        title='I am a photographer',
         message='Your application description page.',
         year=datetime.now().year
     )

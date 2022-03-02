@@ -1,6 +1,15 @@
 % rebase('layout.tpl', title=title, year=year)
 
-<h2>{{ title }}.</h2>
-<h3>{{ message }}</h3>
 
-<p>Use this area to provide additional information.</p>
+<head>
+  <title>My first styled page</title>
+  <style type="text/css">
+  body {
+   background: #000 url(static/images/2.jpg); /* Фоновый цвет и фоновый рисунок*/
+		color: #fff; /*Цвет текста на странице*/
+		background-attachment: fixed; /* Фон страницы фиксируется */
+		background-repeat: repeat-x;
+		}
+  </style>
+</head>
+

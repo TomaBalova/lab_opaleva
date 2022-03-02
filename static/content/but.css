@@ -1,5 +1,8 @@
 body {
+    margin: 0;
     font-family: 'Montserrat', sans-serif;
+    width: 100%;
+
 }
 a.boot {
     -webkit-transform: translate3D(0, 0, 0);
@@ -9,6 +12,7 @@ a.boot {
     font-family: "Helvetica";
     letter-spacing: 1px;
     text-transform: uppercase;
+    justify-content: space-between;
     font-weight: 400;
     font-size: 20px;
     position: relative;
@@ -16,8 +20,9 @@ a.boot {
     text-decoration: none;
     display: block;
     width: 190px;
-    margin: 20px auto;
+    margin-left: 0 auto;
     text-align: center;
+    
 }
 
     a.boot:after {
@@ -68,3 +73,37 @@ a.boot {
         -o-transform: translate(115%, 0);
         transform: translate(115%, 0);
     }
+
+    .container{
+        width: 100%;
+        max-width: 1200px;
+        margin: 0 auto; 
+            
+
+    }
+
+.intro {
+    width: 100%;
+    
+    top: 20px;
+    max-width: 430px;
+    margin-left: 0 auto;
+  
+     
+}
+
+.story {
+    font-family: 'Kaushan Script', cursive;
+    font-size: 30px;
+    font-weight: 400;
+    color: #fff;
+    text-align: left;
+   
+}
+
+
+}
+
+
+
+    

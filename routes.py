@@ -24,8 +24,8 @@ def contact():
         year=datetime.now().year
     )
 
-@route('/about')
-@view('about')
+@route('/im_phot')
+@view('im_phot')
 def about():
     """Renders the about page."""
     return dict(

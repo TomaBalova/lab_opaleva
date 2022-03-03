@@ -24,6 +24,9 @@ background-position: left, right;
 By the power given to me by Instagram,
 I declare myself a photographer
 and a very creative person!
+<img src="static/images/pppp.png" alt="no" align="left" width="716" height="730" />
+
+</p>
 
 
 </body>

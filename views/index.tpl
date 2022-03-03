@@ -14,4 +14,9 @@ background-position: left, right;
 </style>
 </head>
 
+<body>
+  <div>
+  <h1 align="center"> <font size="25" color="#ffffff" face="Bodoni MT">I'M A BLOGGER</font></h1>
+  </div>
+
 

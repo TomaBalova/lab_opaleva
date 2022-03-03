@@ -27,6 +27,11 @@ and a very creative person!
 <img src="static/images/pppp.png" alt="no" align="left" width="716" height="730" />
 
 </p>
+<p> <font size="6" color="#ffffff" face="Bodoni MT">
+My name is Tatiana Molchanova, the city of Moscow.
+In my work I use the pseudonym "burning.princess".
+She started her career as a blogger 10 years ago,
+and recently started modeling and photography.
 
 
 </body>

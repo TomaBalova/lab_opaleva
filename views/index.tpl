@@ -18,5 +18,13 @@ background-position: left, right;
   <div>
   <h1 align="center"> <font size="25" color="#ffffff" face="Bodoni MT">I'M A BLOGGER</font></h1>
   </div>
+  <hr />
+
+<p align="center"> <font size="5" style="background-color:#1c1c1c"  color="#ce2029" face="Bodoni MT">
+By the power given to me by Instagram,
+I declare myself a photographer
+and a very creative person!
 
 
+</body>
+</html>

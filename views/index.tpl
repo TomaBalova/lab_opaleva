@@ -39,6 +39,13 @@ and recently started modeling and photography.
 <img src="static/images/iii.png" alt="no" align="center" width="480" height="640" />
 </p>
 
+<address>
+<big>
+<a href="https://www.instagram.com/burning.princess/">I'm on INSTAGRAM</a><br />
+Adress: Moscow<br />
+Tel: +12 34 56 78
+</address>
+<big>
 
 </body>
 </html>

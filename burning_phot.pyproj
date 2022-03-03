@@ -53,6 +53,7 @@
     <Content Include="static\fonts\glyphicons-halflings-regular.svg" />
     <Content Include="static\fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="static\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="static\fonts\MONTSERRAT-REGULAR.TTF" />
     <Content Include="static\images\2.jpg" />
     <Content Include="static\images\frnd.jpg" />
     <Content Include="static\images\par.jpg" />

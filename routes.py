@@ -36,7 +36,7 @@ def about():
 
 @route('/prices')
 @view('prices')
-def about():
+def prices():
     """Renders the about page."""
     return dict(
         title='PRICE LIST',

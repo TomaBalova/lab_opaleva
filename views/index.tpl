@@ -36,6 +36,8 @@ and recently started modeling and photography.
 
 
 </pre>
+<img src="static/images/iii.png" alt="no" align="center" width="480" height="640" />
+</p>
 
 
 </body>

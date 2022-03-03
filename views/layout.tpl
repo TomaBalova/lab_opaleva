@@ -25,7 +25,7 @@
                 <ul class="nav navbar-nav">
                     <li><a href="/home">I'm a blogger</a></li>
                     <li><a href="/im_phot">I'm a photographer</a></li>
-                    <li><a href="/contact">I'm a model</a></li>
+                    <li><a href="/Imodel">I'm a model</a></li>
                 </ul>
             </div>
         </div>
